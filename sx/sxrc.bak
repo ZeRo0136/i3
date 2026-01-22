@@ -1,0 +1,3 @@
+
+xwallpaper --stretch Pictures/ign_astronaut.png &
+exec dwm > log.txt

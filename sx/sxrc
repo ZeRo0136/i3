@@ -1,0 +1,4 @@
+[[ -f ~/.Xresources ]] && xrdb -merge ~/.Xresources
+xwallpaper --stretch Pictures/ign_astronaut.png &
+
+exec i3 > log.txt
